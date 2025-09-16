@@ -1,4 +1,4 @@
-# primer-repo
+# titulo del primer repo
 Primer repo creado en Github
 
 ## descripción
